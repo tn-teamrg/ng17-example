@@ -13,3 +13,6 @@
 ## 11. angular forms, fromGroup, and formControl
 ## 12. bind a fromGroup to an HTML form in a template
 ## 13. used event binding
+## 14. make a HTTP request to live endpoint via json-server
+## 15. refactored housing service to use promises and async code
+## 16. added filtering capabilities to our app with template variables
