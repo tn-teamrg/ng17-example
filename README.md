@@ -10,3 +10,6 @@
 ## 8. created a service
 ## 9. use dependency injection in components
 ## 10. completed details page
+## 11. angular forms, fromGroup, and formControl
+## 12. bind a fromGroup to an HTML form in a template
+## 13. used event binding
